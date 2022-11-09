@@ -1,6 +1,6 @@
 # Desafio de Projeto
 
-![GitHub forks](https://img.shields.io/github/forks/Mikallina/Primeiro_Desafio_HTML?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mikallina/Dio_NTTData?style=social)
 
 ![Imagem HTML](HTML.png)
 
