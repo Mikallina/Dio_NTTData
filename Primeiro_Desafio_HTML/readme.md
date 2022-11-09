@@ -1,5 +1,7 @@
 # Desafio de Projeto
 
+![GitHub forks](https://img.shields.io/github/forks/Mikallina/Primeiro_Desafio_HTML?style=social)
+
 ![Imagem HTML](HTML.png)
 
 ## Crie Uma Página Web Utilizando as Tags Aprendidas
@@ -23,7 +25,9 @@ Foram também utilizadas técnicas de estilização com CSS.
 - Teste os exemplos no Console do Navegador `CTRL+SHIFT+C`
 
 ## Licença
+
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Créditos
+
 [Michelle Borges](https://github.com/Mikallina)
