@@ -1,0 +1,50 @@
+h3 {
+  font-size: 20px;
+  background: rgb(118, 195, 247);
+}
+
+a:visited {
+  color: currentColor;
+}
+
+a:link {
+  color: currentColor;
+}
+p {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+
+h5 {
+  color: blue;
+}
+
+.diferente {
+  background-color: white;
+  font-style: normal;
+  color: black;
+}
+
+div {
+  border-color: blue;
+  border: 10px;
+}
+
+.tabela,
+th,
+td {
+  margin-right: auto;
+  border: 1px solid blueviolet;
+}
+
+.titulo {
+  background-color: rgb(128, 208, 245);
+}
+footer,
+.footer {
+  text-align: center;
+  padding: 1px;
+  background-color: rgb(95, 162, 238);
+  color: white;
+}
