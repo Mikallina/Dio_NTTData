@@ -4,7 +4,7 @@
 
 
 
-## Criando seu primeiro site completo com HTML - Especialidade Clínica Veterinária
+## Criando primeiro site completo com HTML - Especialidade Clínica Veterinária
 
 ---
 
