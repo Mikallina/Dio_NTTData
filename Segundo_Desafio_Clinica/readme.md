@@ -2,7 +2,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/Mikallina/Dio_NTTData?style=social)
 
-![Imagem HTML](HTML.png)
+
 
 ## Criando seu primeiro site completo com HTML - Especialidade Clínica Veterinária
 
